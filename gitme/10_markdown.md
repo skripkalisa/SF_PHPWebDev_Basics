@@ -52,7 +52,9 @@
 
     ![Логотип markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
-будет собран в такую картинку: ![Логотип markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg).
+будет собран в такую картинку: 
+
+![Логотип markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 Для вставки более сложных элементов (например, видео) или использования более сложных элементов оформления в исходный текст на языке markdown могут быть вставлены теги языка HTML. Например, следующим образом можно создать метку в тексте:
 
