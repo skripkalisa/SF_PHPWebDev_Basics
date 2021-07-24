@@ -1,6 +1,5 @@
 # Инструкция по работе с GIT
 
-[Веб-версия](https://skripkalisa.github.io/SF_PHPWebDev_Basics/ "Веб-версия")
 
 ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 ## Содержание
